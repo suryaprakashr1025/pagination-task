@@ -1,0 +1,51 @@
+*{
+    background-color: rgb(222, 245, 186);
+}
+table{
+    position: fixed;
+    border:1px solid black;
+    margin:-425px 130px;
+    width: 80%;
+    
+}
+th{
+    border:1px solid black;
+    padding:10px 80px;
+    text-align: center; 
+}
+td{
+    border:1px solid black;
+     text-align: center; 
+    
+}
+
+.pagination{
+    margin-left:180px;
+    margin-top: 420px;
+ 
+      
+}
+  button{
+    text-decoration: none;
+    margin-left:29px;  
+    background-color: cornflowerblue; 
+   border: none;
+   padding: 5px 30px;
+   border-radius: 5px;
+   color:white;
+} 
+button:hover{
+    color: black;
+}
+button:active{
+    background-color:rgb(180, 176, 236);
+}
+h3{
+    margin-left: 400px;
+  
+}
+
+h1{
+    margin:50px 580px;
+
+}
